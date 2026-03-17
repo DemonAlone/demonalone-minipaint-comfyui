@@ -14,7 +14,7 @@ A lightweight, local, open-source image editor integration for ComfyUI. Based on
 2. Restart ComfyUI.
 
 ## Usage
-1. Right-click on a `Load Image` or `Preview Image` node.
+1. Right-click on a `Load Image` or similar node.
 2. Select **"Edit in miniPaint"**.
 3. Edit your image in the new tab.
 4. Click the blue **"SAVE TO COMFY"** button at the top.
