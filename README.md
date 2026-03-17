@@ -20,6 +20,6 @@ A lightweight, local, open-source image editor integration for ComfyUI. Based on
 4. Click the blue **"SAVE TO COMFY"** button at the top.
 5. The file will appear in `input/miniPaint/` and auto-load into your node.
 
-## Credits:
-Author of miniPaint ViliusL aka [viliusle](https://github.com/viliusle)
-Huge assistant from Google Gemini
+## Credits
+- Author of miniPaint ViliusL aka [viliusle](https://github.com/viliusle).
+- Huge assistant from Google Gemini.
