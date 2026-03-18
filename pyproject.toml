@@ -1,0 +1,20 @@
+[project]
+name = "DemonAlone-miniPaint-ComfyUI"
+description = "Lightweight local miniPaint editor integration for ComfyUI."
+version = "1.0.0"
+license = {file = "LICENSE"} 
+# classifiers = [
+#     "Environment :: GPU :: NVIDIA CUDA",    # NVIDIA CUDA support
+# ]
+
+
+[project.urls]
+Repository = "https://github.com/DemonAlone/DemonAlone-miniPaint-ComfyUI"
+#  Used by Comfy Registry https://registry.comfy.org
+"Bug Tracker" = "https://github.com/DemonAlone/DemonAlone-miniPaint-ComfyUI/issues"
+
+[tool.comfy]
+PublisherId = "demonalone"
+DisplayName = "DemonAlone-miniPaint-ComfyUI"
+Icon = ""
+includes = [] 
