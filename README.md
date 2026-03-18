@@ -26,4 +26,4 @@ A lightweight, local, open-source image editor integration for ComfyUI. Based on
 
 ## Credits
 - Author of miniPaint ViliusL aka [viliusle](https://github.com/viliusle).
-- Huge assistant from Google Gemini.
+- Huge assistance from Google Gemini.
